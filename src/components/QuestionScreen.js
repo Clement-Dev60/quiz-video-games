@@ -4,7 +4,7 @@ const FALLBACK_QUESTIONS = [
     { question: "Dans quel jeu incarne-t-on le personnage de Link ?", correct: "The Legend of Zelda", answers: ["The Legend of Zelda", "Final Fantasy", "Metroid", "Castlevania"] },
     { question: "Quel est le nom du plombier de Nintendo ?", correct: "Mario", answers: ["Mario", "Luigi", "Wario", "Toad"] },
     { question: "Dans quel jeu retrouve-t-on des Creepers ?", correct: "Minecraft", answers: ["Minecraft", "Terraria", "Roblox", "Fortnite"] },
-    { question: "Quel studio a créé la saga Dark Souls ?", correct: "FromSoftware", answers: ["FromSoftware", "Bandai Namco", "Square Enix", "Capcom"] },
+    { question: "Quel studio a créé la saga Dark Souls ?", correct: "FromSoftware", answers: ["FromSoftware", "Nintendo", "Square Enix", "Capcom"] },
     { question: "Dans quel jeu joue-t-on un chasseur de primes dans l'espace ?", correct: "Metroid", answers: ["Metroid", "Halo", "Mass Effect", "Destiny"] },
     { question: "Quel est le nom de la princesse de Hyrule ?", correct: "Zelda", answers: ["Zelda", "Peach", "Samus", "Daisy"] },
     { question: "Dans quel jeu retrouve-t-on des 'Among Us' ?", correct: "Among Us", answers: ["Among Us", "Fall Guys", "Fortnite", "Rocket League"] },
