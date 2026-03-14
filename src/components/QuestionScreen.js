@@ -8,7 +8,7 @@ const FALLBACK_QUESTIONS = [
     { question: "Dans quel jeu joue-t-on un chasseur de primes dans l'espace ?", correct: "Metroid", answers: ["Metroid", "Halo", "Mass Effect", "Destiny"] },
     { question: "Quel est le nom de la princesse de Hyrule ?", correct: "Zelda", answers: ["Zelda", "Peach", "Samus", "Daisy"] },
     { question: "Dans quel jeu retrouve-t-on des 'Among Us' ?", correct: "Among Us", answers: ["Among Us", "Fall Guys", "Fortnite", "Rocket League"] },
-    { question: "Quel personnage dit 'It's-a me, Mario!' ?", correct: "Mario", answers: ["Mario", "Luigi", "Wario", "Bowser"] },
+    { question: "Quel personnage dit 'Itsume, ...!' ?", correct: "Mario", answers: ["Mario", "Luigi", "Wario", "Bowser"] },
     { question: "Dans quel jeu doit-on survivre sur une île avec 99 autres joueurs ?", correct: "Fortnite", answers: ["Fortnite", "PUBG", "Warzone", "Apex Legends"] },
     { question: "Quel est le nom du renard dans Star Fox ?", correct: "Fox McCloud", answers: ["Fox McCloud", "Falco", "Wolf", "Slippy"] },
 ];
